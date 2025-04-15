@@ -24,3 +24,5 @@ def create_cylinder(center, radius, height, segments=36):
 
 
 ## 기둥 생성 영상(gif)
+
+![Image](https://github.com/user-attachments/assets/69e3ecfc-ced5-4f0a-a9ea-bc965adf4df6)
